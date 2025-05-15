@@ -1,0 +1,68 @@
+*{
+    background-color: #ECEFCA;
+}
+
+.title{
+    text-align: center;
+}
+
+.personal-image{
+    margin-left: 45%;
+    border: 2px solid black;
+}
+
+.links{
+  font-family: "Montserrat", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  color: #94B4C1;
+  text-align: center;
+}
+
+p{
+    padding:5px;
+    color: #213448;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing:auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 17px;
+    text-align: center;
+}
+
+ul{
+    color: #213448;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing:auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 17px;
+    text-align: center;
+}
+
+li{
+    color: #213448;
+    font-family: "Lexend", sans-serif;
+    font-optical-sizing:auto;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 17px;
+    text-align: center; 
+}
+h1{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    color: #213448;
+}
+
+h2{
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    color: #547792;
+}
+
